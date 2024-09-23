@@ -1,49 +1,59 @@
 {
     "skills": [
-    {
-      "icon": "icon",
-      "name": "Visual Studio Code",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png"
-    },
-    {
+      {
+        "icon": "icon",
+        "name": "Visual Studio Code",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png",
+        "competency": 100
+      },
+      {
         "icon": "icon",
         "name": "Javascript",
-        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png"
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png",
+        "competency": 85
       },
-    {
-      "icon": "icon",
-      "name": "Node.js",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Git",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/git.png"
-    },
-    {
-      "icon": "icon",
-      "name": "MySQL",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png"
-    },
-    {
-      "icon": "icon",
-      "name": "PHP",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/php.png"
-    },
-    {
-      "icon": "icon",
-      "name": "Vue.js",
-      "github": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/37eff7fa00de26db41183a3ad8ed0e9119fbc44b/svgs/brands/vuejs.svg"
-    },
-    {
-      "icon": "icon",
-      "name": "Bootstrap",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bootstrap.png"
-    },
-    {
+      {
+        "icon": "icon",
+        "name": "Node.js",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png",
+        "competency": 80
+      },
+      {
+        "icon": "icon",
+        "name": "Git",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/git.png",
+        "competency": 80
+      },
+      {
+        "icon": "icon",
+        "name": "MySQL",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png",
+        "competency": 90
+      },
+      {
+        "icon": "icon",
+        "name": "PHP",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/php.png",
+        "competency": 40
+      },
+      {
+        "icon": "icon",
+        "name": "Vue.js",
+        "github": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/37eff7fa00de26db41183a3ad8ed0e9119fbc44b/svgs/brands/vuejs.svg",
+        "competency": 80
+      },
+      {
+        "icon": "icon",
+        "name": "Bootstrap",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bootstrap.png",
+        "competency": 75
+      },
+      {
         "icon": "icon",
         "name": "Css",
-        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png"
-    }
-  ]
-}
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png",
+        "competency": 70
+      }
+    ]
+  }
+  
