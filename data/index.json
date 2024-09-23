@@ -13,7 +13,7 @@
     {
       "icon": "icon",
       "name": "Node.js",
-      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.pngg"
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png"
     },
     {
       "icon": "icon",
@@ -33,7 +33,7 @@
     {
       "icon": "icon",
       "name": "Vue.js",
-      "github": "svgs/brands/vuejs.svg"
+      "github": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/37eff7fa00de26db41183a3ad8ed0e9119fbc44b/svgs/brands/vuejs.svg"
     },
     {
       "icon": "icon",
