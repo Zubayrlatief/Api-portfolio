@@ -1,0 +1,49 @@
+{
+    "skills": [
+    {
+      "icon": "icon",
+      "name": "Visual Studio Code",
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png"
+    },
+    {
+        "icon": "icon",
+        "name": "Javascript",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png"
+      },
+    {
+      "icon": "icon",
+      "name": "Node.js",
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.pngg"
+    },
+    {
+      "icon": "icon",
+      "name": "Git",
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/git.png"
+    },
+    {
+      "icon": "icon",
+      "name": "MySQL",
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mysql.png"
+    },
+    {
+      "icon": "icon",
+      "name": "PHP",
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/php.png"
+    },
+    {
+      "icon": "icon",
+      "name": "Vue.js",
+      "github": "svgs/brands/vuejs.svg"
+    },
+    {
+      "icon": "icon",
+      "name": "Bootstrap",
+      "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bootstrap.png"
+    },
+    {
+        "icon": "icon",
+        "name": "Css",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png"
+    }
+  ]
+}
