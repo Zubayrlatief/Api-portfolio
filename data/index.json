@@ -15,7 +15,7 @@
       {
         "icon": "icon",
         "name": "Node.js",
-        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png",
+        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs-alt.png",
         "competency": 80
       },
       {
@@ -39,7 +39,7 @@
       {
         "icon": "icon",
         "name": "Vue.js",
-        "github": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/37eff7fa00de26db41183a3ad8ed0e9119fbc44b/svgs/brands/vuejs.svg",
+        "github": "https://zubayrlatief.github.io/Images-/vuejs.jpeg",
         "competency": 80
       },
       {
