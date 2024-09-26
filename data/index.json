@@ -32,12 +32,6 @@
       },
       {
         "icon": "icon",
-        "name": "PHP",
-        "github": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/php.png",
-        "competency": 40
-      },
-      {
-        "icon": "icon",
         "name": "Vue.js",
         "github": "https://zubayrlatief.github.io/Images-/vuejs.jpeg",
         "competency": 80
